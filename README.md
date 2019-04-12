@@ -8,12 +8,12 @@ As we continually copy code for new jobs, we start to notice that we’re reusin
 
 ### Prerequisites
 
-[Jenkins](http://jenkins.io)
-[Slack Account](https://slack.com)
-Slack Credentials in Jenkins Credential Store
-[Jenkins Slack Plugin](http://wiki.jenkins-ci.org/display/JENKINS/Slack+Plugin) Tested with 2.20
-Jenkins Shared Library Configured
-Version Control (github/gitlab)
+- [Jenkins](http://jenkins.io)
+- [Slack Account](https://slack.com)
+- Slack Credentials in Jenkins Credential Store
+- [Jenkins Slack Plugin](http://wiki.jenkins-ci.org/display/JENKINS/Slack+Plugin) Tested with 2.20
+- Jenkins Shared Library Configured
+- Version Control (github/gitlab)
 
 ### Installing
 
