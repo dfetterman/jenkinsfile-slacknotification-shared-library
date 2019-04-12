@@ -18,8 +18,9 @@ As we continually copy code for new jobs, we start to notice that we’re reusin
 ### Installing
 
 1. Configure Jenkins Shared Library:
-   [Jenkins Shared Library Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/)
-   [Shared Library Tutorial](https://cleverbuilder.com/articles/jenkins-shared-library/#example-creating-and-using-a-jenkins-shared-library)
+
+- [Pretty Good Shared Library Tutorial](https://cleverbuilder.com/articles/jenkins-shared-library/#example-creating-and-using-a-jenkins-shared-library)
+- [Official Jenkins Shared Library Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/)
 
 2. Drop sendNotifications.groovy into the /vars directory in your shared library repo.
 
