@@ -11,14 +11,14 @@ As we continually copy code for new jobs, we start to notice that we’re reusin
 - [Jenkins](http://jenkins.io)
 - [Slack Account](https://slack.com)
 - Slack Credentials in Jenkins Credential Store
-- [Jenkins Slack Plugin](http://wiki.jenkins-ci.org/display/JENKINS/Slack+Plugin) Tested with 2.20
+- [Jenkins Slack Plugin](http://wiki.jenkins-ci.org/display/JENKINS/Slack+Plugin) Tested with v2.20
 - Jenkins Shared Library Configured
 - Version Control (github/gitlab)
 
 ### Installing
 
 1. Configure Jenkins Shared Library:
-   [Jenkins Shared Library Docs}(https://jenkins.io/doc/book/pipeline/shared-libraries/)
+   [Jenkins Shared Library Docs](https://jenkins.io/doc/book/pipeline/shared-libraries/)
    [Shared Library Tutorial](https://cleverbuilder.com/articles/jenkins-shared-library/#example-creating-and-using-a-jenkins-shared-library)
 
 2. Drop sendNotifications.groovy into the /vars directory in your shared library repo.
