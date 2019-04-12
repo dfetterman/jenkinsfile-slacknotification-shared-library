@@ -1,0 +1,1 @@
+# jenkinsfile-slacknotification-shared-library
